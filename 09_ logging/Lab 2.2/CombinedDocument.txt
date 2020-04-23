@@ -1,0 +1,4 @@
+
+Usuario1,calle camino #0000,12345678910,usuario1@hotmail.com
+
+Usuario2,Calle camino #0001,10987654321,usuario2@hotmail.com
