@@ -1,0 +1,2 @@
+Sasuke Uchiha,Konoha,10987654321,sasuke@hotmail.com
+Naruto Uzumaki,Konoha,123456789,naruto@hotmail.com
