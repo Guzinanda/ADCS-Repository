@@ -1,2 +1,0 @@
-
-Usuario2,Calle camino #0001,10987654321,usuario2@hotmail.com
